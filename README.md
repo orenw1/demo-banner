@@ -29,12 +29,11 @@ DEMO BANNER START
 
 application version           = 0.0.1-SNAPSHOT
 application formatted version =  (v0.0.1-SNAPSHOT)
-spring-boot version           = 2.2.8.RELEASE
-spring-boot formatted version =  (v2.2.8.RELEASE)
+spring-boot version           = 2.3.1.RELEASE
+spring-boot formatted version =  (v2.3.1.RELEASE)
 application title             = demo-banner
 
 DEMO BANNER END
-
 ```
 
 *   When running with unpacked jar:
@@ -53,10 +52,9 @@ DEMO BANNER START
 
 application version           =
 application formatted version =
-spring-boot version           = 2.2.8.RELEASE
-spring-boot formatted version =  (v2.2.8.RELEASE)
+spring-boot version           = 2.3.1.RELEASE
+spring-boot formatted version =  (v2.3.1.RELEASE)
 application title             =
 
 DEMO BANNER END
-
 ```
